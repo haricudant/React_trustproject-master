@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React_trustproject-master/static/css/main.092d266a.chunk.css",
-    "main.js": "/React_trustproject-master/static/js/main.aca3f694.chunk.js",
-    "main.js.map": "/React_trustproject-master/static/js/main.aca3f694.chunk.js.map",
+    "main.js": "/React_trustproject-master/static/js/main.1ed5994a.chunk.js",
+    "main.js.map": "/React_trustproject-master/static/js/main.1ed5994a.chunk.js.map",
     "runtime-main.js": "/React_trustproject-master/static/js/runtime-main.f09b55bb.js",
     "runtime-main.js.map": "/React_trustproject-master/static/js/runtime-main.f09b55bb.js.map",
     "static/css/2.20673430.chunk.css": "/React_trustproject-master/static/css/2.20673430.chunk.css",
-    "static/js/2.26c375ca.chunk.js": "/React_trustproject-master/static/js/2.26c375ca.chunk.js",
-    "static/js/2.26c375ca.chunk.js.map": "/React_trustproject-master/static/js/2.26c375ca.chunk.js.map",
+    "static/js/2.811e05a4.chunk.js": "/React_trustproject-master/static/js/2.811e05a4.chunk.js",
+    "static/js/2.811e05a4.chunk.js.map": "/React_trustproject-master/static/js/2.811e05a4.chunk.js.map",
     "index.html": "/React_trustproject-master/index.html",
-    "precache-manifest.b40640775479a8b8ae664bf0f7a0580f.js": "/React_trustproject-master/precache-manifest.b40640775479a8b8ae664bf0f7a0580f.js",
+    "precache-manifest.5550e07e023f0207389285a916dfc59a.js": "/React_trustproject-master/precache-manifest.5550e07e023f0207389285a916dfc59a.js",
     "service-worker.js": "/React_trustproject-master/service-worker.js",
     "static/css/2.20673430.chunk.css.map": "/React_trustproject-master/static/css/2.20673430.chunk.css.map",
     "static/css/main.092d266a.chunk.css.map": "/React_trustproject-master/static/css/main.092d266a.chunk.css.map",
-    "static/js/2.26c375ca.chunk.js.LICENSE.txt": "/React_trustproject-master/static/js/2.26c375ca.chunk.js.LICENSE.txt",
+    "static/js/2.811e05a4.chunk.js.LICENSE.txt": "/React_trustproject-master/static/js/2.811e05a4.chunk.js.LICENSE.txt",
     "static/media/Insta-heart.jpg": "/React_trustproject-master/static/media/Insta-heart.b22498df.jpg",
     "static/media/ContactUs.css": "/React_trustproject-master/static/media/contact.5f22b1d3.jpg",
     "static/media/donate-help-blog.jpg": "/React_trustproject-master/static/media/donate-help-blog.66f412a0.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.f09b55bb.js",
     "static/css/2.20673430.chunk.css",
-    "static/js/2.26c375ca.chunk.js",
+    "static/js/2.811e05a4.chunk.js",
     "static/css/main.092d266a.chunk.css",
-    "static/js/main.aca3f694.chunk.js"
+    "static/js/main.1ed5994a.chunk.js"
   ]
 }
